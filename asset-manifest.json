@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe927caf.css",
+    "main.js": "/static/js/main.71f3c0d3.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/fade.png": "/static/media/fade.47a5c78cd6737338acd1.png",
+    "static/media/hwasung.png": "/static/media/hwasung.4f5be51a9b94bc4563fb.png",
+    "static/media/soft.JPG": "/static/media/soft.6ab5b1c946b47d1f2224.JPG",
+    "static/media/emergenza.png": "/static/media/emergenza.1bf25b258cfa0df5a850.png",
+    "static/media/campus.png": "/static/media/campus.c5d2c3bdd7709c879619.png",
+    "static/media/chung.png": "/static/media/chung.6f04a8cafb0ec83c8106.png",
+    "static/media/wall.png": "/static/media/wall.3a74cc6e97d031ca87e1.png",
+    "static/media/dong.png": "/static/media/dong.9ad5d4f41e8e55e65273.png",
+    "static/media/capstone.png": "/static/media/capstone.0133f4c6a1452ba41840.png",
+    "static/media/ba.JPG": "/static/media/ba.cb00ccd1f03e66d5dcf3.JPG",
+    "static/media/jjh.jpg": "/static/media/jjh.a2d6011e83af9220c734.jpg",
+    "index.html": "/index.html",
+    "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
+    "main.71f3c0d3.js.map": "/static/js/main.71f3c0d3.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.71f3c0d3.js"
+  ]
+}
