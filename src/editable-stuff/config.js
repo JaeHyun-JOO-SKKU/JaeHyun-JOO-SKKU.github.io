@@ -44,7 +44,7 @@ const about = {
   show: true,
   heading: "About Me",
   imageLink: require("../editable-stuff/jjh.jpg"),
-  imageSize: 375,
+  imageSize: 400,
   message: (
     <span>
       My name is JaeHyun JOO.
@@ -62,7 +62,6 @@ const about = {
       <br />
     </span>
   ),
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 };
 
 // PROJECTS SECTION
