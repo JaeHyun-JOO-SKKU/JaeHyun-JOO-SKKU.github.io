@@ -141,7 +141,6 @@ const skills = {
     { name: "Creativity", value: 90 },
     { name: "Adaptability", value: 85 },
     { name: "Goal-Oriented", value: 80 },
-
     { name: "Positivity", value: 75 },
     { name: "Problem Solving", value: 70 },
     { name: "Guitar-play", value: 100 },
